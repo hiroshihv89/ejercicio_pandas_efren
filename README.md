@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto realiza un análisis de datos sobre los empleados de una empresa a partir de un archivo CSV llamado `empleados.csv`. Utilizando la librería Pandas en Python, se ejecutan varias operaciones para explorar, analizar y modificar los datos. El objetivo es generar un archivo CSV modificado llamado `empleados_modificado.csv` con ciertos cambios, como la creación de nuevas columnas, eliminación de columnas no necesarias, manejo de valores nulos y cálculos estadísticos.
+Este ejercicio realiza un análisis de datos sobre los empleados de una empresa a partir de un archivo CSV llamado `empleados.csv`. Utilizando la librería Pandas en Python, se ejecutan varias operaciones para explorar, analizar y modificar los datos. El objetivo es generar un archivo CSV modificado llamado `empleados_modificado.csv` con ciertos cambios, como la creación de nuevas columnas, eliminación de columnas no necesarias, manejo de valores nulos y cálculos estadísticos.
 
 ## Instrucciones para Ejecutar el Código
 
