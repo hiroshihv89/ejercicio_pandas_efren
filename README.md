@@ -39,6 +39,6 @@ Este proyecto realiza un análisis de datos sobre los empleados de una empresa a
 
 *Desarrollado por alumno: Efren_Hernández*
 
-*Intructor: Saúl Sneider Chávez Chico*
+*Instructor: Saúl Sneider Chávez Chico*
 
 # SENATI
