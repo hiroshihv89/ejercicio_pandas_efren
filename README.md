@@ -10,7 +10,7 @@ Este proyecto realiza un análisis de datos sobre los empleados de una empresa a
    ```bash
    git clone https://github.com/hiroshihv89/ejercicio_pandas_efren.git
    ```
-   Nota: Al clonar el repositoria a tu PC, lo podrás encontrar normalmente en: C:\Users\"tu_usuario"\...
+   Nota: Al clonar el repositorio a tu PC, lo podrás encontrar normalmente en: C:\Users\"tu_usuario"\...
 
 2. **Asegúrate de tener Python y Pandas instalados**. Si no tienes Pandas, puedes instalarlo usando pip:
    ```bash
